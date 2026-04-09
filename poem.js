@@ -43,6 +43,11 @@ const poem = `
     Who brave the night and make it work.
     We'll meet again at dawn's first ray,
     With coffee brewed and bugs to slay.
+
+    AI? Oh. That? It's our new friend.
+    A friend we supply with data, to comprehend.
+    Learning from us, the tasks we give.
+    As pretentious it is, we will live.
 `;
 
 console.log(poem);
